@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zunidimple22-dot.github.io/desi-zaika/sitemap.xml
